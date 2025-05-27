@@ -32,7 +32,7 @@ https://www.kaggle.com/datasets/juhibhojani/zomato-cafe-reviews
 
 https://github.com/cabojago/cabojago
 
-###플로우
+### 플로우
 
 **데이터 수집**
 
