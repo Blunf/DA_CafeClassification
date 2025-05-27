@@ -16,9 +16,8 @@
 
 ### 사용 데이터 및 기술
 
-크롤링 데이터
-
-https://www.kaggle.com/datasets/juhibhojani/zomato-cafe-reviews
+1. 크롤링 데이터
+2. Kaggle 데이터 (https://www.kaggle.com/datasets/juhibhojani/zomato-cafe-reviews)
 
 | 파트 | 사용 도구 |
 | --- | --- |
