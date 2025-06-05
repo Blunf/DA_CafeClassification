@@ -15,9 +15,9 @@ Cafe Classification Using NLP-Based Sentiment Analysis and Embedding Models
 | 시각화 | Matplotlib, Seaborn, Plotly |
 
 - 주요 내용
- - Python을 활용해 카페 리뷰 데이터 수집 및 전처리, 감정 분석 기반 키워드 추출과 문장 임베딩 수행
- - SBERT 기반 임베딩 클러스터링과 키워드 빈도 기반 분류 방식을 비교 분석
- - 사용 목적에 맞는 카페 추천 시스템 설계를 목표로, 텍스트 기반 자동 분류 알고리즘 구현
+    - Python을 활용해 카페 리뷰 데이터 수집 및 전처리, 감정 분석 기반 키워드 추출과 문장 임베딩 수행
+    - SBERT 기반 임베딩 클러스터링과 키워드 빈도 기반 분류 방식을 비교 분석
+    - 사용 목적에 맞는 카페 추천 시스템 설계를 목표로, 텍스트 기반 자동 분류 알고리즘 구현
 
 ### 목적
 
