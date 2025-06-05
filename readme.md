@@ -1,7 +1,7 @@
 ## NLP기반 감정분석과 임베딩 모델을 활용한 카페 분류 프로젝트
 Cafe Classification Using NLP-Based Sentiment Analysis and Embedding Models
 
-- 기간: ‘25년 5월 ~ ‘25년 6월(3개월)
+- 기간: ‘25년 5월 ~ ‘25년 6월(2개월)
 
 - 건국대학교 경영학과 데이터기반 의사결정 (이명구 교수님)
 
