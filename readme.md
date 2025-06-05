@@ -9,11 +9,10 @@ Cafe Classification Using NLP-Based Sentiment Analysis and Embedding Models
 
 | 파트 | 사용 도구 |
 | --- | --- |
-| 크롤링 | Selenium, BeautifulSoup, Requests |
-| NLP | KoNLPy, KeyBERT, Transformers(Huggingface), SBERT |
+| 크롤링 | Selenium,  Requests |
+| NLP | KoNLPy, Transformers(Huggingface), SBERT |
 | 머신러닝 | Scikit-learn, Gensim (LDA), KMeans |
-| 시각화 | Matplotlib, Seaborn, WordCloud, Plotly |
-| 환경 | Python, Jupyter Notebook / Google Colab |
+| 시각화 | Matplotlib, Seaborn, Plotly |
 
 - 주요 내용
  - Python을 활용해 카페 리뷰 데이터 수집 및 전처리, 감정 분석 기반 키워드 추출과 문장 임베딩 수행
